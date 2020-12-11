@@ -1,0 +1,86 @@
+html{
+  height: 100%;
+}
+body{
+  margin: 0px;
+  background-color: #ebe9e9
+}
+
+#background{
+  background: no-repeat center top;
+  background-size:100% 100%;
+  color: #fff
+}
+#home{
+
+  text-align: center;
+}
+
+#home .container h1, #periodetrias.container h1, #periodejura.container h1, #periodetkapur.container h1{
+  margin:36px;
+}
+
+#home .container .row, #periodetrias.container .row, #periodejura.container .row, #periodekapur.container .row{
+  margin:-3px;
+}
+
+#home .isi .container.atas, #periodetrias.isi.container.atas, #periodejura.isi.container.atas, #periodekapur.isi.container.atas{
+  background-color:#f9f8f8;
+  margin-top:-85px;
+  padding-bottom:37px;
+}
+
+#periode{
+  text-align: center;
+}
+
+#macamdino{
+  margin-top: 31px;
+  background-color: #f9f8f8;
+  padding-top: 43px;
+  padding-bottom: 25px;
+}
+
+#gallery .container h1{
+  text-align: center;
+  font-family: raleway;
+  margin-bottom: 38px;
+}
+
+#gallery .container .row #dua.col-lg-6.col-md-6.col-sm-6.col-xs-6{
+  padding-top:31px;
+}
+#about{
+  background-color:  #000000;
+  margin-top: 79px;
+  color: black;
+}
+
+#about .container{
+  width: 90%;
+  padding: 40px;
+}
+
+#about .container.footer .col-lg-6.col-md-6.col-sm-12.col-xs-12{
+   font-family: raleway;
+  color:#eee;
+}
+
+.input-group.input-group-lg{
+  margin-top:23px;
+}
+
+#icon{
+  color:white;
+  font-size:37px;
+  margin-top:20px;
+  position:static;
+}
+
+#icon i.fab fa-instagram{
+  margin-left:17px;
+}
+
+#icon i.far fa-envelope{
+  margin-left:17px;
+}
